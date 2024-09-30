@@ -1,0 +1,47 @@
+body{
+
+    background: black;
+
+    color: white; 
+
+    margin: 0px; 
+
+    font-family: "Kalnia Glaze", serif;
+
+} 
+
+header{
+
+    border-bottom: solid 4px rgb(212 72 215); 
+
+    padding: 20px; 
+
+    font-size: 50px; 
+
+}
+
+section{
+
+    background color: white;
+
+    padding-bottom: 70px;
+
+    padding-top: 60px;
+
+    display: flex;
+
+    justify-content:center;
+
+}
+
+.chmada-texto{
+
+    margin-right:10%
+
+} 
+
+img{
+
+    height:200px; 
+
+}
